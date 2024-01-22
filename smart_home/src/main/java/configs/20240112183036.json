@@ -1,0 +1,7 @@
+{
+  "address": "Elm St, Springfield, NY, Canada",
+  "area": 0,
+  "numberOfRooms": 2,
+  "people": ["Peter", "Peter", "Mary", "Jane", "Mary", "Susan", "Jane", "John", "Jane", "Jane", "Mary", "Mary"],
+  "pets": ["Mary", "Mary", "Peter", "Peter", "John", "Peter", "Jane", "Jane", "Susan"]
+}
